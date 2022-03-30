@@ -89,8 +89,6 @@ a:hover {
 .writer {
   width: 25%;
   float: right;
-  position: relative;
-  right: 50px;
 }
 
 .button {
